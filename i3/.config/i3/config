@@ -218,3 +218,4 @@ smart_gaps on
 
 # Configure RandR
 exec --no-startup-id toggle-xrandr
+exec --no-startup-id nextcloud
