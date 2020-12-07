@@ -50,8 +50,7 @@ export TERMINAL=st
 
 export EDITOR=vim
 export BROWSER=firefox
-#export MAIL=etrobert@student.42.fr
-export MAIL=etiennerobert33@gmail.com
+export MAIL=etienne.robert@erasys.de
 
 # Activate touch support in firefox
 export MOZ_USE_XINPUT2=1
