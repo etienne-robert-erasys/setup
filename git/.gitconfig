@@ -7,12 +7,13 @@
   branch = auto
   status = auto
   diff = auto
+[include]
+	path = /Users/Etienne.Robert/work/awesome-dev-helpers/git_aliases/all
 [alias]
   ci = commit
   co = checkout
   st = status -sb
   br = branch
-  di = diff
   ff = merge --ff-only
   vimdiff = difftool -y -t vimdiff
   #lg = log --graph --oneline
