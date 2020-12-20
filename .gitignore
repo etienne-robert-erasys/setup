@@ -7,3 +7,6 @@ fish/.config/fish/fish_variables
 # This file contains custom attributes of the containing folder in macOS
 # See https://en.wikipedia.org/wiki/.DS_Store
 .DS_Store
+
+# vim swap files
+*.swp
